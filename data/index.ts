@@ -72,19 +72,19 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
-      title: "3D Solar System Planets to Explore",
-      des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+      title: "Link Chat",
+      des: "A real-time chat application built with Node.js, Express, and Socket.IO.",
       img: "/p1.svg",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "https://github.com/adrianhajdin?tab=repositories",
+      iconLists: ["/re.svg"],
+      link: "https://github.com/hencethepyramids/Chatting",
     },
     {
       id: 2,
-      title: "Yoom - Video Conferencing App",
+      title: "Beta GetFit App",
       des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
       img: "/p2.svg",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/zoom-clone",
+      iconLists: [],
+      link: "https://github.umn.edu/hoyt0084/GroupBetaGetFit",
     },
     {
       id: 3,
