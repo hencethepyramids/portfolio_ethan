@@ -8,7 +8,7 @@ export const navItems = [
   export const gridItems = [
     {
       id: 1,
-      title: "I prioritize client collaboration, fostering open communication ",
+      title: "I value close client collaboration and clear communication",
       description: "",
       className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
       imgClassName: "w-full h-full",
@@ -18,7 +18,7 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "I'm very flexible with time zone communications",
+      title: "I accomodate various time zones for smooth communication",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-2",
       imgClassName: "",
@@ -38,7 +38,7 @@ export const navItems = [
     },
     {
       id: 4,
-      title: "Tech enthusiast with a passion for development.",
+      title: "My love for technology drives my development work",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-1",
       imgClassName: "",
@@ -49,7 +49,7 @@ export const navItems = [
   
     {
       id: 5,
-      title: "Currently building a JS Animation library",
+      title: "Creating a JavaScript animation library for dynamic content",
       description: "The Inside Scoop",
       className: "md:col-span-3 md:row-span-2",
       imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -107,33 +107,33 @@ export const navItems = [
   export const testimonials = [
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "We would love to have you back!",
+      name: "Kevin Suhr",
+      title: "Director at Youth Tech Inc",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "We would love to have you back!",
+      name: "Kevin Suhr",
+      title: "Director at Youth Tech Inc",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "We would love to have you back!",
+      name: "Kevin Suhr",
+      title: "Director at Youth Tech Inc",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "We would love to have you back!",
+      name: "Kevin Suhr",
+      title: "Director at Youth Tech Inc",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "We would love to have you back!",
+      name: "Kevin Suhr",
+      title: "Director at Youth Tech Inc",
     },
   ];
   
@@ -173,29 +173,29 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: "Frontend Engineer Intern",
-      desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+      title: "Developer - AliceAI",
+      desc: "Contributed to the development of AliceAI, a conversational AI project, focusing on enhancing natural language processing and machine learning capabilities.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
     {
       id: 2,
-      title: "Mobile App Dev - JSM Tech",
-      desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+      title: "Full Stack Developer - GroupBetaGetFit",
+      desc: "Developed a fitness tracking application as part of a team project, incorporating both frontend and backend features to improve user engagement and functionality.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp2.svg",
     },
     {
       id: 3,
-      title: "Freelance App Dev Project",
-      desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+      title: "Creator - 'Link Chat'",
+      desc: "Designed and implemented a real-time chat application with a focus on user experience and responsive design, utilizing modern web technologies.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp3.svg",
     },
     {
       id: 4,
-      title: "Lead Frontend Developer",
-      desc: "Developed and maintained user-facing features using modern frontend technologies.",
+      title: "Developmental Leadership - YouthTech Inc.",
+      desc: "Led a collaborative effort to enhance YouthTech’s educational programs, coordinating a diverse team of developers, designers, and instructors to ensure high-quality and effective project execution.",
       className: "md:col-span-2",
       thumbnail: "/exp4.svg",
     },
@@ -203,15 +203,13 @@ export const navItems = [
   
   export const socialMedia = [
     {
-      id: 1,
-      img: "/git.svg",
-    },
-    {
       id: 2,
-      img: "/twit.svg",
+      img: "/git.svg",
+      url: "https://github.com/hencethepyramids",
     },
     {
       id: 3,
       img: "/link.svg",
+      url: "https://www.linkedin.com/in/ethan-ellerstein-5b4610240/",
     },
   ];

@@ -59,4 +59,4 @@ const RecentProjects = () => {
   )
 }
 
-export default RecentProjects
+export default RecentProjects;

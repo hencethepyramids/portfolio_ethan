@@ -14,7 +14,7 @@ const Approach = () => {
         <Card 
           title="Planning & Strategy" 
           icon={<AceternityIcon order="Phase 1"/>}
-          description="Fill in here"
+          description="In this phase, I work closely with you to understand your vision, goals, and requirements. I conduct thorough research, define the project scope, and create a strategic roadmap that aligns with your objectives. This foundation ensures that every decision is guided by a clear plan, setting the stage for a successful project."
           >
           <CanvasRevealEffect
             animationSpeed={5.1}
@@ -24,7 +24,7 @@ const Approach = () => {
         <Card 
           title="Development & Progress Update" 
           icon={<AceternityIcon order="Phase 2" />}
-          description="Fill in here"
+          description="During this phase, I bring your project to life through iterative development, keeping you updated regularly so you’re informed every step of the way. I prioritize transparency and agility, making adjustments as needed to ensure the project evolves according to your feedback and changing needs."
           >
             <CanvasRevealEffect
               animationSpeed={3}
@@ -39,7 +39,7 @@ const Approach = () => {
         <Card 
           title="Development & Launch" 
           icon={<AceternityIcon order="Phase 3"/>}
-          description="Fill in here"
+          description="The final phase focuses on refining, testing, and launching your project with precision. I ensure that every detail is polished, conducting rigorous quality checks to deliver a product that meets the highest standards. After launch, I provide support and monitoring to guarantee a smooth transition and continued success."
           >
           <CanvasRevealEffect
             animationSpeed={3}
