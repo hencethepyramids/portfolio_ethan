@@ -75,7 +75,7 @@ export const navItems = [
       title: "Link Chat",
       des: "A real-time chat application built with Node.js, Express, and Socket.IO.",
       img: "/p1.svg",
-      iconLists: ["/re.svg"],
+      iconLists: ["/re.svg", "next.svg"],
       link: "https://github.com/hencethepyramids/Chatting",
     },
     {
@@ -91,7 +91,7 @@ export const navItems = [
       title: "Sudoku Solver",
       des: "Developed a Sudoku solver using efficient algorithms with a clean user interface.",
       img: "/p3.svg",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+      iconLists: [],
       link: "https://github.umn.edu/ELLER152/Sudoku-Solver",
     },
     {
@@ -99,7 +99,7 @@ export const navItems = [
       title: "CodeMeThis Platform",
       des: "Created a coding challenge platform to enhance problem-solving skills.",
       img: "/p4.svg",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+      iconLists: ["/next.svg", "/tail.svg","/three.svg",],
       link: "https://github.com/hencethepyramids/codeMeThis",
     },
   ];
